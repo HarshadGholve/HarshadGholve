@@ -56,6 +56,6 @@
 ---
 
 ### 🔗 **Let's Collaborate!**
-If you're interested in collaborating on **AI/ML projects**, **SQL automation**, or **open-source contributions**, feel free to connect with me!
+If you're interested in collaborating on **AI/ML projects**, or **open-source contributions**, feel free to connect with me!
 
 ---
